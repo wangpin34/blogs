@@ -8,6 +8,7 @@ A collection of valuable blogs,post sites
 [Sam Altman](http://blog.samaltman.com/) | [How To Be Successful](http://blog.samaltman.com/how-to-be-successful)
 [Steph](https://blog.stephsmith.io) | [You Don't Need to Quit Your Job to Make](https://blog.stephsmith.io/you-dont-need-to-quit-your-job-to-make/)
 [https://yuanchuan.dev/](https://yuanchuan.dev/2019/05/15/window-lattice-and-css.html)| [Chinese Window Lattice And CSS](https://yuanchuan.dev/2019/05/15/window-lattice-and-css.html) [css 实现中式窗棂](https://yuanchuan.dev/2019/05/15/window-lattice-and-css.html)
+[Andrew Chen](https://andrewchen.co/) | [10 years of professional blogging – what I’ve learned](https://andrewchen.co/professional-blogging/)
 
 ## Posts sites
 |Name|Key words / Known by me|
