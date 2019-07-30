@@ -10,6 +10,7 @@ A collection of valuable blogs,post sites
 [Yuan Chuan](https://yuanchuan.dev/2019/05/15/window-lattice-and-css.html)| [Chinese Window Lattice And CSS](https://yuanchuan.dev/2019/05/15/window-lattice-and-css.html) [css 实现中式窗棂](https://yuanchuan.dev/2019/05/15/window-lattice-and-css.html)
 [Andrew Chen](https://andrewchen.co/) | [10 years of professional blogging – what I’ve learned](https://andrewchen.co/professional-blogging/)
 [Adam Silver](https://adamsilver.io) | [The boring front-end developer](https://adamsilver.io/articles/the-boring-front-end-developer/)
+[Vicki](https://veekaybee.github.io/) | [IT runs on Java 8](https://veekaybee.github.io/2019/05/10/java8/)
 
 ## Posts sites
 |Name|Key words / Known by me|
