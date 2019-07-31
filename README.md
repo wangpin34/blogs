@@ -11,6 +11,7 @@ A collection of valuable blogs,post sites
 [Andrew Chen](https://andrewchen.co/) | [10 years of professional blogging – what I’ve learned](https://andrewchen.co/professional-blogging/)
 [Adam Silver](https://adamsilver.io) | [The boring front-end developer](https://adamsilver.io/articles/the-boring-front-end-developer/)
 [Vicki](https://veekaybee.github.io/) | [IT runs on Java 8](https://veekaybee.github.io/2019/05/10/java8/)
+[taimur.me](https://taimur.me) | [Notes from Malcolm Gladwell's writing Masterclass – Part 1](https://taimur.me/posts/notes-from-malcolm-gladwell-s-writing-masterclass-part-1)
 
 ## Posts sites
 |Name|Key words / Known by me|
