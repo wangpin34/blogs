@@ -17,4 +17,5 @@ A collection of valuable blogs,post sites
 -----|---------
 [Indie Hackers](https://www.indiehackers.com/) | Why I quit the $500K jobs from Amazon? 
 [freecode camp](https://www.freecodecamp.org) | [Fundamental design principles for non-designers](https://www.freecodecamp.org/news/fundamental-design-principles-for-non-designers-ad34c30caa7/)
+[dev](https://dev.to/) | [A JavaScript-Free Frontend](https://dev.to/winduptoy/a-javascript-free-frontend-2d3e)
 
