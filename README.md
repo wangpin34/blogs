@@ -14,6 +14,7 @@ A collection of valuable blogs,post sites
 [taimur.me](https://taimur.me) | [Notes from Malcolm Gladwell's writing Masterclass – Part 1](https://taimur.me/posts/notes-from-malcolm-gladwell-s-writing-masterclass-part-1)
 [bloomca](https://blog.bloomca.me) | [Alternatives to JSX](https://blog.bloomca.me/2019/02/23/alternatives-to-jsx.html)
 [Khalil Stemmler](https://khalilstemmler.com) | [When To Use TypeScript - A Detailed Guide Through Common Scenarios](https://khalilstemmler.com/articles/when-to-use-typescript-guide/)
+[左耳朵耗子](https://coolshell.cn/haoel)
 
 ## Posts sites
 |Name|Key words / Known by me|
