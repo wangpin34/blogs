@@ -15,6 +15,7 @@ A collection of valuable blogs,post sites
 [bloomca](https://blog.bloomca.me) | [Alternatives to JSX](https://blog.bloomca.me/2019/02/23/alternatives-to-jsx.html)
 [Khalil Stemmler](https://khalilstemmler.com) | [When To Use TypeScript - A Detailed Guide Through Common Scenarios](https://khalilstemmler.com/articles/when-to-use-typescript-guide/)
 [左耳朵耗子](https://coolshell.cn/haoel)
+[tisquirrel](https://tisquirrel.me/) | [say agile one more time](https://tisquirrel.me/2016/01/03/say-agile-one-more-time/)
 
 ## Posts sites
 |Name|Key words / Known by me|
